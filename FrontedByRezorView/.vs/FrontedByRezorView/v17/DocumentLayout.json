@@ -1,0 +1,274 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Prctice\\SaifulDotNetSolution\\FrontedByRezorView\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{57DA4D3F-1FF6-40E6-AF88-CC4933777E70}|FrontedByRezorView\\FrontedByRezorView.csproj|d:\\prctice\\saifuldotnetsolution\\frontedbyrezorview\\frontedbyrezorview\\views\\settings\\emailsetting.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{57DA4D3F-1FF6-40E6-AF88-CC4933777E70}|FrontedByRezorView\\FrontedByRezorView.csproj|solutionrelative:frontedbyrezorview\\views\\settings\\emailsetting.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57DA4D3F-1FF6-40E6-AF88-CC4933777E70}|FrontedByRezorView\\FrontedByRezorView.csproj|d:\\prctice\\saifuldotnetsolution\\frontedbyrezorview\\frontedbyrezorview\\views\\settings\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{57DA4D3F-1FF6-40E6-AF88-CC4933777E70}|FrontedByRezorView\\FrontedByRezorView.csproj|solutionrelative:frontedbyrezorview\\views\\settings\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57DA4D3F-1FF6-40E6-AF88-CC4933777E70}|FrontedByRezorView\\FrontedByRezorView.csproj|d:\\prctice\\saifuldotnetsolution\\frontedbyrezorview\\frontedbyrezorview\\modelviews\\companyprofilesettingsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57DA4D3F-1FF6-40E6-AF88-CC4933777E70}|FrontedByRezorView\\FrontedByRezorView.csproj|solutionrelative:frontedbyrezorview\\modelviews\\companyprofilesettingsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57DA4D3F-1FF6-40E6-AF88-CC4933777E70}|FrontedByRezorView\\FrontedByRezorView.csproj|d:\\prctice\\saifuldotnetsolution\\frontedbyrezorview\\frontedbyrezorview\\controllers\\settingscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57DA4D3F-1FF6-40E6-AF88-CC4933777E70}|FrontedByRezorView\\FrontedByRezorView.csproj|solutionrelative:frontedbyrezorview\\controllers\\settingscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57DA4D3F-1FF6-40E6-AF88-CC4933777E70}|FrontedByRezorView\\FrontedByRezorView.csproj|d:\\prctice\\saifuldotnetsolution\\frontedbyrezorview\\frontedbyrezorview\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{57DA4D3F-1FF6-40E6-AF88-CC4933777E70}|FrontedByRezorView\\FrontedByRezorView.csproj|solutionrelative:frontedbyrezorview\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57DA4D3F-1FF6-40E6-AF88-CC4933777E70}|FrontedByRezorView\\FrontedByRezorView.csproj|d:\\prctice\\saifuldotnetsolution\\frontedbyrezorview\\frontedbyrezorview\\modelviews\\emailsettingmodelview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57DA4D3F-1FF6-40E6-AF88-CC4933777E70}|FrontedByRezorView\\FrontedByRezorView.csproj|solutionrelative:frontedbyrezorview\\modelviews\\emailsettingmodelview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57DA4D3F-1FF6-40E6-AF88-CC4933777E70}|FrontedByRezorView\\FrontedByRezorView.csproj|d:\\prctice\\saifuldotnetsolution\\frontedbyrezorview\\frontedbyrezorview\\services\\settingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57DA4D3F-1FF6-40E6-AF88-CC4933777E70}|FrontedByRezorView\\FrontedByRezorView.csproj|solutionrelative:frontedbyrezorview\\services\\settingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57DA4D3F-1FF6-40E6-AF88-CC4933777E70}|FrontedByRezorView\\FrontedByRezorView.csproj|d:\\prctice\\saifuldotnetsolution\\frontedbyrezorview\\frontedbyrezorview\\modelviews\\settingsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57DA4D3F-1FF6-40E6-AF88-CC4933777E70}|FrontedByRezorView\\FrontedByRezorView.csproj|solutionrelative:frontedbyrezorview\\modelviews\\settingsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57DA4D3F-1FF6-40E6-AF88-CC4933777E70}|FrontedByRezorView\\FrontedByRezorView.csproj|d:\\prctice\\saifuldotnetsolution\\frontedbyrezorview\\frontedbyrezorview\\views\\settings\\companyprofilesettings.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{57DA4D3F-1FF6-40E6-AF88-CC4933777E70}|FrontedByRezorView\\FrontedByRezorView.csproj|solutionrelative:frontedbyrezorview\\views\\settings\\companyprofilesettings.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57DA4D3F-1FF6-40E6-AF88-CC4933777E70}|FrontedByRezorView\\FrontedByRezorView.csproj|d:\\prctice\\saifuldotnetsolution\\frontedbyrezorview\\frontedbyrezorview\\views\\settings\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{57DA4D3F-1FF6-40E6-AF88-CC4933777E70}|FrontedByRezorView\\FrontedByRezorView.csproj|solutionrelative:frontedbyrezorview\\views\\settings\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57DA4D3F-1FF6-40E6-AF88-CC4933777E70}|FrontedByRezorView\\FrontedByRezorView.csproj|d:\\prctice\\saifuldotnetsolution\\frontedbyrezorview\\frontedbyrezorview\\repositories\\isetting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57DA4D3F-1FF6-40E6-AF88-CC4933777E70}|FrontedByRezorView\\FrontedByRezorView.csproj|solutionrelative:frontedbyrezorview\\repositories\\isetting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57DA4D3F-1FF6-40E6-AF88-CC4933777E70}|FrontedByRezorView\\FrontedByRezorView.csproj|d:\\prctice\\saifuldotnetsolution\\frontedbyrezorview\\frontedbyrezorview\\models\\settings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57DA4D3F-1FF6-40E6-AF88-CC4933777E70}|FrontedByRezorView\\FrontedByRezorView.csproj|solutionrelative:frontedbyrezorview\\models\\settings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57DA4D3F-1FF6-40E6-AF88-CC4933777E70}|FrontedByRezorView\\FrontedByRezorView.csproj|d:\\prctice\\saifuldotnetsolution\\frontedbyrezorview\\frontedbyrezorview\\frontedbyrezorview.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{57DA4D3F-1FF6-40E6-AF88-CC4933777E70}|FrontedByRezorView\\FrontedByRezorView.csproj|solutionrelative:frontedbyrezorview\\frontedbyrezorview.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57DA4D3F-1FF6-40E6-AF88-CC4933777E70}|FrontedByRezorView\\FrontedByRezorView.csproj|d:\\prctice\\saifuldotnetsolution\\frontedbyrezorview\\frontedbyrezorview\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57DA4D3F-1FF6-40E6-AF88-CC4933777E70}|FrontedByRezorView\\FrontedByRezorView.csproj|solutionrelative:frontedbyrezorview\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SettingsViewModel.cs",
+              "DocumentMoniker": "D:\\Prctice\\SaifulDotNetSolution\\FrontedByRezorView\\FrontedByRezorView\\ModelViews\\SettingsViewModel.cs",
+              "RelativeDocumentMoniker": "FrontedByRezorView\\ModelViews\\SettingsViewModel.cs",
+              "ToolTip": "D:\\Prctice\\SaifulDotNetSolution\\FrontedByRezorView\\FrontedByRezorView\\ModelViews\\SettingsViewModel.cs",
+              "RelativeToolTip": "FrontedByRezorView\\ModelViews\\SettingsViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T15:15:01.697Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CompanyProfileSettingsViewModel.cs",
+              "DocumentMoniker": "D:\\Prctice\\SaifulDotNetSolution\\FrontedByRezorView\\FrontedByRezorView\\ModelViews\\CompanyProfileSettingsViewModel.cs",
+              "RelativeDocumentMoniker": "FrontedByRezorView\\ModelViews\\CompanyProfileSettingsViewModel.cs",
+              "ToolTip": "D:\\Prctice\\SaifulDotNetSolution\\FrontedByRezorView\\FrontedByRezorView\\ModelViews\\CompanyProfileSettingsViewModel.cs",
+              "RelativeToolTip": "FrontedByRezorView\\ModelViews\\CompanyProfileSettingsViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAIAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T15:06:45.334Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmailSetting.cshtml",
+              "DocumentMoniker": "D:\\Prctice\\SaifulDotNetSolution\\FrontedByRezorView\\FrontedByRezorView\\Views\\Settings\\EmailSetting.cshtml",
+              "RelativeDocumentMoniker": "FrontedByRezorView\\Views\\Settings\\EmailSetting.cshtml",
+              "ToolTip": "D:\\Prctice\\SaifulDotNetSolution\\FrontedByRezorView\\FrontedByRezorView\\Views\\Settings\\EmailSetting.cshtml*",
+              "RelativeToolTip": "FrontedByRezorView\\Views\\Settings\\EmailSetting.cshtml*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-22T14:31:25.835Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Prctice\\SaifulDotNetSolution\\FrontedByRezorView\\FrontedByRezorView\\Views\\Settings\\Index.cshtml",
+              "RelativeDocumentMoniker": "FrontedByRezorView\\Views\\Settings\\Index.cshtml",
+              "ToolTip": "D:\\Prctice\\SaifulDotNetSolution\\FrontedByRezorView\\FrontedByRezorView\\Views\\Settings\\Index.cshtml",
+              "RelativeToolTip": "FrontedByRezorView\\Views\\Settings\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-22T07:08:21.938Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SettingsController.cs",
+              "DocumentMoniker": "D:\\Prctice\\SaifulDotNetSolution\\FrontedByRezorView\\FrontedByRezorView\\Controllers\\SettingsController.cs",
+              "RelativeDocumentMoniker": "FrontedByRezorView\\Controllers\\SettingsController.cs",
+              "ToolTip": "D:\\Prctice\\SaifulDotNetSolution\\FrontedByRezorView\\FrontedByRezorView\\Controllers\\SettingsController.cs",
+              "RelativeToolTip": "FrontedByRezorView\\Controllers\\SettingsController.cs",
+              "ViewState": "AQIAAJYAAAAAAAAAAAAMwKsAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T20:03:27.658Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SettingService.cs",
+              "DocumentMoniker": "D:\\Prctice\\SaifulDotNetSolution\\FrontedByRezorView\\FrontedByRezorView\\Services\\SettingService.cs",
+              "RelativeDocumentMoniker": "FrontedByRezorView\\Services\\SettingService.cs",
+              "ToolTip": "D:\\Prctice\\SaifulDotNetSolution\\FrontedByRezorView\\FrontedByRezorView\\Services\\SettingService.cs",
+              "RelativeToolTip": "FrontedByRezorView\\Services\\SettingService.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAD4vyEAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T20:47:08.376Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Prctice\\SaifulDotNetSolution\\FrontedByRezorView\\FrontedByRezorView\\Program.cs",
+              "RelativeDocumentMoniker": "FrontedByRezorView\\Program.cs",
+              "ToolTip": "D:\\Prctice\\SaifulDotNetSolution\\FrontedByRezorView\\FrontedByRezorView\\Program.cs",
+              "RelativeToolTip": "FrontedByRezorView\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T20:01:40.49Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CompanyProfileSettings.cshtml",
+              "DocumentMoniker": "D:\\Prctice\\SaifulDotNetSolution\\FrontedByRezorView\\FrontedByRezorView\\Views\\Settings\\CompanyProfileSettings.cshtml",
+              "RelativeDocumentMoniker": "FrontedByRezorView\\Views\\Settings\\CompanyProfileSettings.cshtml",
+              "ToolTip": "D:\\Prctice\\SaifulDotNetSolution\\FrontedByRezorView\\FrontedByRezorView\\Views\\Settings\\CompanyProfileSettings.cshtml",
+              "RelativeToolTip": "FrontedByRezorView\\Views\\Settings\\CompanyProfileSettings.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-21T20:39:45.544Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\Prctice\\SaifulDotNetSolution\\FrontedByRezorView\\FrontedByRezorView\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "FrontedByRezorView\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\Prctice\\SaifulDotNetSolution\\FrontedByRezorView\\FrontedByRezorView\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "FrontedByRezorView\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAiwBwAAABdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-21T20:11:59.397Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ISetting.cs",
+              "DocumentMoniker": "D:\\Prctice\\SaifulDotNetSolution\\FrontedByRezorView\\FrontedByRezorView\\Repositories\\ISetting.cs",
+              "RelativeDocumentMoniker": "FrontedByRezorView\\Repositories\\ISetting.cs",
+              "ToolTip": "D:\\Prctice\\SaifulDotNetSolution\\FrontedByRezorView\\FrontedByRezorView\\Repositories\\ISetting.cs",
+              "RelativeToolTip": "FrontedByRezorView\\Repositories\\ISetting.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T19:58:35.564Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\Prctice\\SaifulDotNetSolution\\FrontedByRezorView\\FrontedByRezorView\\Views\\Settings\\Edit.cshtml",
+              "RelativeDocumentMoniker": "FrontedByRezorView\\Views\\Settings\\Edit.cshtml",
+              "ToolTip": "D:\\Prctice\\SaifulDotNetSolution\\FrontedByRezorView\\FrontedByRezorView\\Views\\Settings\\Edit.cshtml",
+              "RelativeToolTip": "FrontedByRezorView\\Views\\Settings\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-21T20:08:11.359Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "FrontedByRezorView.csproj",
+              "DocumentMoniker": "D:\\Prctice\\SaifulDotNetSolution\\FrontedByRezorView\\FrontedByRezorView\\FrontedByRezorView.csproj",
+              "RelativeDocumentMoniker": "FrontedByRezorView\\FrontedByRezorView.csproj",
+              "ToolTip": "D:\\Prctice\\SaifulDotNetSolution\\FrontedByRezorView\\FrontedByRezorView\\FrontedByRezorView.csproj",
+              "RelativeToolTip": "FrontedByRezorView\\FrontedByRezorView.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-21T19:58:00.772Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Settings.cs",
+              "DocumentMoniker": "D:\\Prctice\\SaifulDotNetSolution\\FrontedByRezorView\\FrontedByRezorView\\Models\\Settings.cs",
+              "RelativeDocumentMoniker": "FrontedByRezorView\\Models\\Settings.cs",
+              "ToolTip": "D:\\Prctice\\SaifulDotNetSolution\\FrontedByRezorView\\FrontedByRezorView\\Models\\Settings.cs",
+              "RelativeToolTip": "FrontedByRezorView\\Models\\Settings.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAIAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T19:57:10.494Z"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "FloatingWindowState": {
+        "Id": "68e2ccdb-d3a8-4711-b667-681a3e5dae7c",
+        "Display": 0,
+        "X": 785,
+        "Y": 139,
+        "Width": 1247,
+        "Height": 784,
+        "WindowState": 0
+      },
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EmailSettingModelView.cs",
+              "DocumentMoniker": "D:\\Prctice\\SaifulDotNetSolution\\FrontedByRezorView\\FrontedByRezorView\\ModelViews\\EmailSettingModelView.cs",
+              "RelativeDocumentMoniker": "FrontedByRezorView\\ModelViews\\EmailSettingModelView.cs",
+              "ToolTip": "D:\\Prctice\\SaifulDotNetSolution\\FrontedByRezorView\\FrontedByRezorView\\ModelViews\\EmailSettingModelView.cs",
+              "RelativeToolTip": "FrontedByRezorView\\ModelViews\\EmailSettingModelView.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T14:17:46.413Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,134 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Prctice\\SaifulDotNetSolution\\BackendApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9B53A27C-0B12-48EC-A6BA-DEF953F7A13D}|BackendApi\\BackendApi.csproj|d:\\prctice\\saifuldotnetsolution\\backendapi\\backendapi\\services\\settingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B53A27C-0B12-48EC-A6BA-DEF953F7A13D}|BackendApi\\BackendApi.csproj|solutionrelative:backendapi\\services\\settingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B53A27C-0B12-48EC-A6BA-DEF953F7A13D}|BackendApi\\BackendApi.csproj|d:\\prctice\\saifuldotnetsolution\\backendapi\\backendapi\\controllers\\settingscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B53A27C-0B12-48EC-A6BA-DEF953F7A13D}|BackendApi\\BackendApi.csproj|solutionrelative:backendapi\\controllers\\settingscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B53A27C-0B12-48EC-A6BA-DEF953F7A13D}|BackendApi\\BackendApi.csproj|d:\\prctice\\saifuldotnetsolution\\backendapi\\backendapi\\models\\settings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B53A27C-0B12-48EC-A6BA-DEF953F7A13D}|BackendApi\\BackendApi.csproj|solutionrelative:backendapi\\models\\settings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B53A27C-0B12-48EC-A6BA-DEF953F7A13D}|BackendApi\\BackendApi.csproj|d:\\prctice\\saifuldotnetsolution\\backendapi\\backendapi\\repositories\\isetting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B53A27C-0B12-48EC-A6BA-DEF953F7A13D}|BackendApi\\BackendApi.csproj|solutionrelative:backendapi\\repositories\\isetting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B53A27C-0B12-48EC-A6BA-DEF953F7A13D}|BackendApi\\BackendApi.csproj|d:\\prctice\\saifuldotnetsolution\\backendapi\\backendapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B53A27C-0B12-48EC-A6BA-DEF953F7A13D}|BackendApi\\BackendApi.csproj|solutionrelative:backendapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B53A27C-0B12-48EC-A6BA-DEF953F7A13D}|BackendApi\\BackendApi.csproj|d:\\prctice\\saifuldotnetsolution\\backendapi\\backendapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9B53A27C-0B12-48EC-A6BA-DEF953F7A13D}|BackendApi\\BackendApi.csproj|solutionrelative:backendapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B53A27C-0B12-48EC-A6BA-DEF953F7A13D}|BackendApi\\BackendApi.csproj|d:\\prctice\\saifuldotnetsolution\\backendapi\\backendapi\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B53A27C-0B12-48EC-A6BA-DEF953F7A13D}|BackendApi\\BackendApi.csproj|solutionrelative:backendapi\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SettingService.cs",
+              "DocumentMoniker": "D:\\Prctice\\SaifulDotNetSolution\\BackendApi\\BackendApi\\Services\\SettingService.cs",
+              "RelativeDocumentMoniker": "BackendApi\\Services\\SettingService.cs",
+              "ToolTip": "D:\\Prctice\\SaifulDotNetSolution\\BackendApi\\BackendApi\\Services\\SettingService.cs",
+              "RelativeToolTip": "BackendApi\\Services\\SettingService.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAIA+wBQAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T19:46:03.341Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ISetting.cs",
+              "DocumentMoniker": "D:\\Prctice\\SaifulDotNetSolution\\BackendApi\\BackendApi\\Repositories\\ISetting.cs",
+              "RelativeDocumentMoniker": "BackendApi\\Repositories\\ISetting.cs",
+              "ToolTip": "D:\\Prctice\\SaifulDotNetSolution\\BackendApi\\BackendApi\\Repositories\\ISetting.cs",
+              "RelativeToolTip": "BackendApi\\Repositories\\ISetting.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAYAAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T19:44:58.489Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SettingsController.cs",
+              "DocumentMoniker": "D:\\Prctice\\SaifulDotNetSolution\\BackendApi\\BackendApi\\Controllers\\SettingsController.cs",
+              "RelativeDocumentMoniker": "BackendApi\\Controllers\\SettingsController.cs",
+              "ToolTip": "D:\\Prctice\\SaifulDotNetSolution\\BackendApi\\BackendApi\\Controllers\\SettingsController.cs",
+              "RelativeToolTip": "BackendApi\\Controllers\\SettingsController.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAawCMAAABbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T19:41:37.181Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Prctice\\SaifulDotNetSolution\\BackendApi\\BackendApi\\Program.cs",
+              "RelativeDocumentMoniker": "BackendApi\\Program.cs",
+              "ToolTip": "D:\\Prctice\\SaifulDotNetSolution\\BackendApi\\BackendApi\\Program.cs",
+              "RelativeToolTip": "BackendApi\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T19:19:15.95Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Prctice\\SaifulDotNetSolution\\BackendApi\\BackendApi\\appsettings.json",
+              "RelativeDocumentMoniker": "BackendApi\\appsettings.json",
+              "ToolTip": "D:\\Prctice\\SaifulDotNetSolution\\BackendApi\\BackendApi\\appsettings.json",
+              "RelativeToolTip": "BackendApi\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-21T19:14:33.022Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\Prctice\\SaifulDotNetSolution\\BackendApi\\BackendApi\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "BackendApi\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\Prctice\\SaifulDotNetSolution\\BackendApi\\BackendApi\\ApplicationDbContext.cs",
+              "RelativeToolTip": "BackendApi\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T19:08:59.398Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Settings.cs",
+              "DocumentMoniker": "D:\\Prctice\\SaifulDotNetSolution\\BackendApi\\BackendApi\\Models\\Settings.cs",
+              "RelativeDocumentMoniker": "BackendApi\\Models\\Settings.cs",
+              "ToolTip": "D:\\Prctice\\SaifulDotNetSolution\\BackendApi\\BackendApi\\Models\\Settings.cs",
+              "RelativeToolTip": "BackendApi\\Models\\Settings.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T19:07:54.101Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
